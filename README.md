@@ -1,4 +1,4 @@
-### Hi there , I am Omar Sosa 👨🏻‍💻 Fullstack Web Developer 
+### Hi there , I am Tomas Walker 👨🏻‍💻 Fullstack Web Developer 
 
 With experience building sites and web applications. I specialize in JavaScript 
 
