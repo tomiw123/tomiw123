@@ -25,6 +25,13 @@ const aboutMe = {
    challenge: "I am working on improving my soft skills and my study of English",
 }; 
 ``` 
+---
+**Contact with me** 📝 </br></br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvina-bordon/)](https://www.linkedin.com/in/tomas-walker-fullstack/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silbordon.89@gmail.com)](tomacowalker@gmai.com)
+<br />
+
+---
 
 ---
 
