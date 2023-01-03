@@ -23,7 +23,8 @@ const aboutMe = {
    },
    currentOccupation: ["Freelance, open for job opportunities"],
    challenge: "I am working on improving my soft skills and my study of English",
-}; ```
+}; 
+``` 
 
 ---
 
